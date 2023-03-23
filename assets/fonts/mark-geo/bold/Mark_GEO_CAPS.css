@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mark GEO CAPS';
+    src: url('fonts/MARKGEOCAPS-BOLD.eot');
+    src: url('fonts/MARKGEOCAPS-BOLD.eot?#iefix') format('embedded-opentype'),
+         url('fonts/MARKGEOCAPS-BOLD.woff2') format('woff2'),
+         url('fonts/MARKGEOCAPS-BOLD.woff') format('woff'),
+         url('fonts/MARKGEOCAPS-BOLD.TTF')  format('truetype'),
+         url('fonts/MARKGEOCAPS-BOLD.svg#Mark GEO CAPS') format('svg');
+}

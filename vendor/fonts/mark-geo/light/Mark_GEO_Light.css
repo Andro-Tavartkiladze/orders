@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mark GEO Light';
+    src: url('fonts/MARKGEO-LIGHT.eot');
+    src: url('fonts/MARKGEO-LIGHT.eot?#iefix') format('embedded-opentype'),
+         url('fonts/MARKGEO-LIGHT.woff2') format('woff2'),
+         url('fonts/MARKGEO-LIGHT.woff') format('woff'),
+         url('fonts/MARKGEO-LIGHT.ttf')  format('truetype'),
+         url('fonts/MARKGEO-LIGHT.svg#Mark GEO Light') format('svg');
+}
