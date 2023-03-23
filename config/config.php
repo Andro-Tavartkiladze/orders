@@ -1,13 +1,13 @@
 <?php
 
 /*Localhost*/
-	define('DB_SERVER', 		'localhost');
-	define('DB_USERNAME', 	'root');
-	define('DB_PASSWORD', 	'root');
-	define('DB_NAME', 		'test_orders');
+	define('DB_SERVER', 'localhost');
+	define('DB_USERNAME', 'root');
+	define('DB_PASSWORD', '');
+	define('DB_NAME', 'test_orders');
 
-	define('ROOT', 			$_SERVER['DOCUMENT_ROOT'].'/github/orders');	
-	define('SUBDOMAIN', 		'/github/orders');	
+//	define('ROOT', $_SERVER['DOCUMENT_ROOT'].'/github/orders');
+//	define('SUBDOMAIN', '/github/orders');
 
 	
 $link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
